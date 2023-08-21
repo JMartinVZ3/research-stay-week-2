@@ -37,5 +37,5 @@ The provided code is a Python script that allows users to input the URL of a web
 
 ## Proof-of-concept Example
 The example that is requested each week can be found in the proof-of-concept.py python file.
-It is a small example on how NLP can be used to implement sentiment analysis using customer reviews."# research-stay-week-2" 
+It is a small example on how tokenization can be used to preprocess customer reviews."# research-stay-week-2" 
 "# research-stay-week-2" 
